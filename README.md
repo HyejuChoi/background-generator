@@ -1,2 +1,2 @@
 # background-generator
-get input value and generate backround css
+https://hyejuchoi.github.io/background-generator/
